@@ -6,3 +6,5 @@ May 18, 2021
 ## Overview 
 
 In this project, I created a dashboard which utilizes a JSON file to visualize bacterial data which gives insight into belly button biodiversity. The dashboard has a dropdown menu which allows users to view visualizations for all the volunteers that took part in this research. 
+
+link to GitHub Pages: https://ahmed17777.github.io/Plotly_Belly_Button_Biodiversity-/ 
