@@ -11,9 +11,7 @@ link to GitHub Pages: https://ahmed17777.github.io/Plotly_Belly_Button_Biodivers
 
 ## Screenshots 
 
-![bar](https://user-images.githubusercontent.com/45697471/119700745-99e43480-be21-11eb-86b2-6c546ef18153.png)
-
-![ws](https://user-images.githubusercontent.com/45697471/119700755-9badf800-be21-11eb-8851-d5f9c3d9daaf.png)
+![bar](https://user-images.githubusercontent.com/45697471/119700745-99e43480-be21-11eb-86b2-6c546ef18153.png) ![ws](https://user-images.githubusercontent.com/45697471/119700755-9badf800-be21-11eb-8851-d5f9c3d9daaf.png)
 
 ![fq](https://user-images.githubusercontent.com/45697471/119700761-9d77bb80-be21-11eb-97dc-8909d5ca1c25.png)
 
